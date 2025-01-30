@@ -9,4 +9,7 @@
 9 - basta acessar a tela clone usando o ip da máquina atacante no navegador do alvo 
 
 10 - resultado abaixo como exemplo:
+
+
+
 ![atack key username and password](https://github.com/user-attachments/assets/5f9c6a89-1ee7-48c2-80b8-8963962ed505)
